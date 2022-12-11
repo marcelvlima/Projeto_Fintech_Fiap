@@ -1,4 +1,4 @@
 # Projeto_Fintech_Fiap
-Projeto de criaçāo de uma fintech desenvolvido na FIAP-2022
+##Projeto de criaçāo de uma fintech desenvolvido na FIAP-2022
 
-# Primeira fase: criacao do projeto na web
+### Primeira fase: criacao do projeto na web - ok
